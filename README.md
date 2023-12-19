@@ -3,8 +3,11 @@
 ## Shortcuts
 
 Command + , - Settings
+
 Command + / - Comment / uncomment with line comment 
+
 Command + 1 - Project
+
 Command + 2 - Terminal
 Command + 3 - Database
 Command + 4 - Git
